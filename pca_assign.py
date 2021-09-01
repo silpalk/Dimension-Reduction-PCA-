@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 31 23:09:53 2021
 
-@author: Amarnadh Tadi
+@author: Silpa
 
 """
 ### PCA for Wine data
